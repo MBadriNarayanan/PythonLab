@@ -1,2 +1,2 @@
 # Python
-Python Lab Sem I
+Python Lab work done during I Semester
